@@ -97,4 +97,4 @@ This project simulates a real-world predictive architecture task:
 
 ## 👤 About the Author
 **Kevin Mendoza**
-* 🧪 **Biotechnology Engineer** * ⚙️ **Data Engineer** ````
+* 🧪 **Biotechnology Engineer** * ⚙️ **Data Engineer**
